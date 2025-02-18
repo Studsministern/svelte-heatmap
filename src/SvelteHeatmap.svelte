@@ -123,6 +123,6 @@ $: width = view === 'monthly'
     : (cellRect * chunks.length) - cellGap + dayLabelWidth;
 
 $: dayLabelPosition = index => {
-    return (cellRect * index) + (cellRect / 2) + monthLabelHeight;
+    return (cellRect * index) + (cellRect / 2) + monthLabelHeight + fontSize;
 }
 </script>
