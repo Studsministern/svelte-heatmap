@@ -1,14 +1,12 @@
 # svelte-heatmap
 
 [![Netlify](https://img.shields.io/netlify/4d4e781f-f953-4b8a-92c8-ad4ba986236e)](https://svelte-heatmap.netlify.app/)
-[![Build status](https://img.shields.io/github/workflow/status/scottbedard/svelte-heatmap/Test)](https://github.com/scottbedard/svelte-heatmap/actions)
-[![Dependencies](https://img.shields.io/david/scottbedard/svelte-heatmap)](https://david-dm.org/scottbedard/svelte-heatmap)
-[![Dev dependencies](https://img.shields.io/david/dev/scottbedard/svelte-heatmap)](https://david-dm.org/scottbedard/svelte-heatmap?type=dev)
+[![Build status](https://img.shields.io/github/workflow/status/studsministern/svelte-heatmap/Test)](https://github.com/studsministern/svelte-heatmap/actions)
 [![Size](https://img.shields.io/bundlephobia/minzip/svelte-heatmap?color=yellow&label=size)](https://bundlephobia.com/result?p=svelte-heatmap)
 [![NPM](https://img.shields.io/npm/v/svelte-heatmap)](https://www.npmjs.com/package/svelte-heatmap)
-[![License](https://img.shields.io/github/license/scottbedard/svelte-heatmap?color=blue)](https://github.com/scottbedard/svelte-heatmap/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/studsministern/svelte-heatmap?color=blue)](https://github.com/studsministern/svelte-heatmap/blob/master/LICENSE)
 
-A light weight and customizable version of GitHub's contribution graph.
+A light weight and customizable version of GitHub's contribution graph. Fork of [Scott Bedard's package](https://github.com/scottbedard/svelte-heatmap).
 
 [![Heatmap examples](https://user-images.githubusercontent.com/7980426/78958159-27d55280-7a9c-11ea-9b08-8b5d7df31d7a.png)](https://svelte-heatmap.netlify.app/)
 
@@ -129,6 +127,6 @@ Determines how the chart should be displayed. Supported values are `monthly` and
 
 ## 📄 License
 
-[MIT](https://github.com/scottbedard/svelte-heatmap/blob/master/LICENSE)
+[MIT](https://github.com/studsministern/svelte-heatmap/blob/master/LICENSE)
 
 Copyright (c) 2017-present, Scott Bedard
